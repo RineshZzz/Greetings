@@ -1,0 +1,214 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+      "localizations" : {
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
+          }
+        }
+      }
+    },
+    "Are You Ready to," : {
+      "localizations" : {
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are You Ready to,"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neengal thayara"
+          }
+        }
+      }
+    },
+    "Boom." : {
+      "localizations" : {
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Boom."
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Boom."
+          }
+        }
+      }
+    },
+    "Exploring iOS Programming" : {
+      "localizations" : {
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exploring iOS Programming"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS programming suthiparke"
+          }
+        }
+      }
+    },
+    "Greetings" : {
+      "localizations" : {
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enchante"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vanakkam"
+          }
+        }
+      }
+    },
+    "Hello There!" : {
+      "localizations" : {
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bonjour!"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vanakkam"
+          }
+        }
+      }
+    },
+    "start Exploring?" : {
+      "localizations" : {
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "start Exploring?"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arambikalama"
+          }
+        }
+      }
+    },
+    "SwiftUI is awesome!" : {
+      "localizations" : {
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SwiftUI super bien"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SwiftUI dayangaram"
+          }
+        }
+      }
+    },
+    "SwiftUI is the best!" : {
+      "localizations" : {
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SwiftUI bien"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SwiftUI gethu"
+          }
+        }
+      }
+    },
+    "SwiftUI is the coolest!" : {
+      "localizations" : {
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SwiftUI is the coolest!"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SwiftUI vere level"
+          }
+        }
+      }
+    },
+    "SwiftUI is the future!" : {
+      "localizations" : {
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SwiftUI is the future!"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SwiftUI thaan da ellame"
+          }
+        }
+      }
+    },
+    "SwiftUI is the most awesome!" : {
+      "localizations" : {
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SwiftUI is the most awesome!"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SwiftUI super ah irukkum"
+          }
+        }
+      }
+    },
+    "Welcome to Programming!" : {
+      "localizations" : {
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to Programming!"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Programming ku varaverkirom!"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
