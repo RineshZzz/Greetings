@@ -49,6 +49,12 @@
         }
       }
     },
+    "Click on text and disc" : {
+
+    },
+    "English" : {
+
+    },
     "Exploring iOS Programming" : {
       "localizations" : {
         "fr-CA" : {
@@ -64,6 +70,9 @@
           }
         }
       }
+    },
+    "French" : {
+
     },
     "Greetings" : {
       "localizations" : {
@@ -192,6 +201,12 @@
           }
         }
       }
+    },
+    "Tamil" : {
+
+    },
+    "Text will be randomly generated and observe nice animation!" : {
+
     },
     "Welcome to Programming!" : {
       "localizations" : {
