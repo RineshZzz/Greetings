@@ -107,6 +107,7 @@
       }
     },
     "start Exploring?" : {
+      "extractionState" : "stale",
       "localizations" : {
         "fr-CA" : {
           "stringUnit" : {
@@ -121,6 +122,9 @@
           }
         }
       }
+    },
+    "Start Exploring?" : {
+
     },
     "SwiftUI is awesome!" : {
       "localizations" : {
@@ -205,7 +209,7 @@
     "Tamil" : {
 
     },
-    "Text will be randomly generated and observe nice animation!" : {
+    "Text will be randomly generated!" : {
 
     },
     "Welcome to Programming!" : {

@@ -19,7 +19,7 @@ struct GreetingsApp: App {
                 .environment(\.layoutDirection, layoutDirection)
             
                 .task {
-                        // Configure and load your tips at app launch.
+                    try? Tips.resetDatastore()
                     do {
                         try Tips.configure()
                     }

@@ -16,7 +16,7 @@ struct MessagesView: View {
                 color: .yellow),
         
             .init(
-                text: "start Exploring?",
+                text: "Start Exploring?",
                 color: .red),
         
             .init(

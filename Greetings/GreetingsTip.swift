@@ -8,7 +8,7 @@ struct GreetingsTip: Tip {
     }
     
     var message: Text? {
-        Text("Text will be randomly generated and observe nice animation!")
+        Text("Text will be randomly generated!")
     }
     
     var asset: Image? {
